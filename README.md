@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# 🛍️ Beautiq App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An elegant frontend for an online beauty store — built with React.
 
-## Available Scripts
+## ✨ Project Overview
 
-In the project directory, you can run:
+**Beautiq App** is a frontend-only e-commerce website designed for a beauty and nail products shop. This project was created as part of my frontend learning journey to practice building a modular layout with React components, routing, and adaptive styling.
 
-### `npm start`
+The website includes product categories, promotional sections, and informational pages — all styled consistently and organized for potential scaling (e.g. product listings, future backend integration, etc.).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔧 Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React (Create React App)**
+- **HTML5 / JSX**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Git & GitHub**
 
-### `npm test`
+## 📸 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Responsive layout
+- Category sections with images and descriptions
+- Static product showcase
+- Clean and consistent UI
+- Based on real-world beauty shop structure
+- Easy to extend for real backend logic in the future
 
-### `npm run build`
+## 💻 Getting Started Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run the project on your machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/NadinDesigns/beautiq-app.git
+cd beautiq-app
+npm install
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The app will open in your browser at `http://localhost:3000`.
 
-### `npm run eject`
+## 📁 Folder Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+beautiq-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/ (to be added later)
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📍 Live Preview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The project will be published soon on GitHub Pages:  
+👉 *link will appear here once deployed*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🙋‍♀️ Author
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with 💅 by [Nadzeya Hlustsova](https://www.linkedin.com/in/nadin-designs-8a9053356)
