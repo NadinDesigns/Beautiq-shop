@@ -58,6 +58,7 @@ The project will be published soon on GitHub Pages:
 🔗 [Live Demo](https://nadindesigns.github.io/beautiq-shop/)
 
 
+
 ## 🙋‍♀️ Author
 
 Made with 💅 by [Nadzeya Hlustsova](https://www.linkedin.com/in/nadin-designs-8a9053356)
