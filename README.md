@@ -55,7 +55,8 @@ beautiq-app/
 ## 📍 Live Preview
 
 The project will be published soon on GitHub Pages:  
-[👉 *link will appear here once deployed*](https://nadindesigns.github.io/beautiq-shop)
+[🌐 Открыть сайт](https://nadindesigns.github.io/beautiq-shop)
+
 
 ## 🙋‍♀️ Author
 
