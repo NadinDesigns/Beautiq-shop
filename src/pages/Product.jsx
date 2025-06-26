@@ -16,7 +16,7 @@ export const Product = () => {
               <button className="btn btn-primary search-btn">
                 <img
                   className="search-btn__icon"
-                  src="/image/lupa.svg"
+                  src={`${process.env.PUBLIC_URL}/image/lupa.svg`}
                   alt="search"
                 />
                 <span className="search-btn__text">Suchen</span>
@@ -35,7 +35,7 @@ export const Product = () => {
                     </h2>
                     <img
                       className="content-product__img"
-                      src={findeProduct.img}
+                      src={`${process.env.PUBLIC_URL}${findeProduct.img}`}
                       alt="foto-product"
                     />
                     <p className="content-side__list-item--text">
