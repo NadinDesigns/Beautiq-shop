@@ -67,7 +67,10 @@ export const Header = () => {
             <button className="btn btn-primary">Zum Shop</button>
           </div>
           <div className="header-burger">
-            <img src="/image/burger.svg" alt="burger" />
+            <img
+              src={`${process.env.PUBLIC_URL}/image/burger.svg`}
+              alt="burger"
+            />
           </div>
         </div>
       </div>

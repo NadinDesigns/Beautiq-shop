@@ -25,7 +25,7 @@ export const Home = () => {
               <button className="btn btn-primary search-btn">
                 <img
                   className="search-btn__icon"
-                  src="/image/lupa.svg"
+                  src={`${process.env.PUBLIC_URL}/image/lupa.svg`}
                   alt="search"
                 />
                 <span className="search-btn__text">Suchen</span>
