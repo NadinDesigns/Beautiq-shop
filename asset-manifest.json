@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beautiq-shop/static/css/main.5c79e8fd.css",
+    "main.js": "/beautiq-shop/static/js/main.b776369f.js",
+    "index.html": "/beautiq-shop/index.html",
+    "main.5c79e8fd.css.map": "/beautiq-shop/static/css/main.5c79e8fd.css.map",
+    "main.b776369f.js.map": "/beautiq-shop/static/js/main.b776369f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c79e8fd.css",
+    "static/js/main.b776369f.js"
+  ]
+}
