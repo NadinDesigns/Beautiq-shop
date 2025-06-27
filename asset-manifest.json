@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beautiq-shop/static/css/main.5c79e8fd.css",
-    "main.js": "/beautiq-shop/static/js/main.b39596d6.js",
+    "main.js": "/beautiq-shop/static/js/main.c0e68973.js",
     "index.html": "/beautiq-shop/index.html",
     "main.5c79e8fd.css.map": "/beautiq-shop/static/css/main.5c79e8fd.css.map",
-    "main.b39596d6.js.map": "/beautiq-shop/static/js/main.b39596d6.js.map"
+    "main.c0e68973.js.map": "/beautiq-shop/static/js/main.c0e68973.js.map"
   },
   "entrypoints": [
     "static/css/main.5c79e8fd.css",
-    "static/js/main.b39596d6.js"
+    "static/js/main.c0e68973.js"
   ]
 }
