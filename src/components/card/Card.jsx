@@ -6,7 +6,7 @@ export const Card = ({ id, title, price, address, data, img }) => {
     <>
       <Link to={`/product/${id}`} className="card">
         <div className="card--img">
-          <img src={`${img}`} alt="" />
+          <img src={`${process.env.PUBLIC_URL}${img}`} alt="" />
         </div>
         <h5 className="card--title">{title}</h5>
         <strong>{price}</strong>
